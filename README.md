@@ -1,5 +1,7 @@
 # screen-saver
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 > Starts the screensaver.
 
 ## Install
