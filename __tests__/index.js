@@ -1,5 +1,7 @@
 import m from '../';
 
+jest.mock('child_process');
+
 describe('screen-saver', () => {
   test('it should be a child process', () => {
     const s = m();

@@ -1,6 +1,6 @@
 # screen-saver
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Travis](https://img.shields.io/travis/vutran/screen-saver/develop.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/vutran/screen-saver) [![Coveralls branch](https://img.shields.io/coveralls/vutran/screen-saver/develop.svg?maxAge=2592000&style=flat-square)](https://coveralls.io/github/vutran/screen-saver) [![license](https://img.shields.io/github/license/vutran/screen-saver.svg?maxAge=2592000&style=flat-square)](LICENSE)
 
 > Starts the screensaver.
 
